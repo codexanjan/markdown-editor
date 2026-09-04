@@ -34,6 +34,24 @@ export const StatusBar: React.FC = () => {
         )}
       </div>
 
+      {/* Center: Author Credit */}
+      <div className="flex items-center space-x-1 text-[10px] sm:text-[11px] text-slate-400 hover:text-slate-300 transition mx-2">
+        <span>Built with</span>
+        <span className="text-red-500 animate-pulse text-xs select-none" role="img" aria-label="love">
+          ❤️
+        </span>
+        <span>by</span>
+        <a
+          href="https://github.com/codexanjan"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Visit Anjan Shetty on GitHub (@codexanjan)"
+          className="text-slate-200 hover:text-blue-400 font-semibold transition underline-offset-2 hover:underline"
+        >
+          Anjan Shetty
+        </a>
+      </div>
+
       {/* Right: Metrics & Details */}
       <div className="flex items-center space-x-3">
         {/* Toggleable Detailed Stats Popover */}
