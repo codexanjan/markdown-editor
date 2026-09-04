@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "description": "Markdown Studio - A sleek, browser-based Markdown editor with real-time live preview, GitHub Flavored Markdown (GFM) support, syntax highlighting, templates, version history, and multiple export formats (MD, HTML, PDF, TXT).",
-  "homepage": "https://codexanjan.github.io/markdown-editor/",
+  "homepage": "https://markdown-editor-ten-eta.vercel.app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codexanjan/markdown-editor.git"

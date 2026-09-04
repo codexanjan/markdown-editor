@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/markdown-editor/' : '/',
+  base: process.env.VERCEL ? '/' : (process.env.GITHUB_PAGES ? '/markdown-editor/' : './'),
   plugins: [
     tailwindcss(),
     react(),

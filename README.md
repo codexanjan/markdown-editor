@@ -1,7 +1,7 @@
 # Markdown Studio 📝⚡
 
-[![Deploy to GitHub Pages](https://github.com/codexanjan/markdown-editor/actions/workflows/deploy.yml/badge.svg)](https://github.com/codexanjan/markdown-editor/actions/workflows/deploy.yml)
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://codexanjan.github.io/markdown-editor/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black.svg?logo=vercel&logoColor=white)](https://markdown-editor-ten-eta.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://markdown-editor-ten-eta.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![React 19](https://img.shields.io/badge/React-19-61dafb.svg?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178c6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -10,7 +10,7 @@
 
 A fast, modern, and privacy-focused browser-based Markdown editor. Built with **React 19**, **CodeMirror 6**, **TypeScript**, and **Tailwind CSS v4**, Markdown Studio delivers a developer-grade writing and document management experience directly in your browser.
 
-👉 **[Launch Live Demo](https://codexanjan.github.io/markdown-editor/)**
+👉 **[Launch Live Demo on Vercel](https://markdown-editor-ten-eta.vercel.app)** *(also available via [GitHub Pages](https://codexanjan.github.io/markdown-editor/))*
 
 ---
 
