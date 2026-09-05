@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import logoImg from '../../assets/logo.png';
 import { useAppStore } from '../../store/useAppStore';
 import { ViewMode } from '../../types';
 import {
@@ -182,9 +183,11 @@ export const TopBar: React.FC = () => {
 
         {/* Logo */}
         <div className="flex items-center space-x-2 shrink-0">
-          <div className="w-6 h-6 rounded-md bg-gradient-to-tr from-blue-600 to-indigo-500 flex items-center justify-center text-white font-bold text-xs shadow-xs">
-            M
-          </div>
+          <img
+            src={logoImg}
+            alt="Markdown Studio Logo"
+            className="w-6 h-6 rounded-md object-cover shadow-sm ring-1 ring-blue-500/30"
+          />
           <span className="text-xs font-semibold text-slate-200 hidden sm:inline tracking-tight">
             Markdown Studio
           </span>

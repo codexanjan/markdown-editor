@@ -1,16 +1,26 @@
-# Markdown Studio 📝⚡
+<p align="center">
+  <img src="public/logo.png" alt="Markdown Studio Logo" width="120" height="120" style="border-radius: 24px;" />
+</p>
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black.svg?logo=vercel&logoColor=white)](https://markdown-editor-ten-eta.vercel.app)
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://markdown-editor-ten-eta.vercel.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![React 19](https://img.shields.io/badge/React-19-61dafb.svg?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178c6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8.0-646cff.svg?logo=vite&logoColor=white)](https://vite.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8.svg?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+<h1 align="center">Markdown Studio</h1>
 
-A fast, modern, and privacy-focused browser-based Markdown editor. Built with **React 19**, **CodeMirror 6**, **TypeScript**, and **Tailwind CSS v4**, Markdown Studio delivers a developer-grade writing and document management experience directly in your browser.
+<p align="center">
+  <strong>A sleek, high-performance browser-based Markdown editor with real-time live preview, IndexedDB storage, and export tools.</strong>
+</p>
 
-👉 **[Launch Live Demo on Vercel](https://markdown-editor-ten-eta.vercel.app)** *(also available via [GitHub Pages](https://codexanjan.github.io/markdown-editor/))*
+<p align="center">
+  <a href="https://markdown-editor-ten-eta.vercel.app"><img src="https://img.shields.io/badge/Vercel-Live_Demo-black.svg?logo=vercel&logoColor=white" alt="Vercel Deployment" /></a>
+  <a href="https://markdown-editor-ten-eta.vercel.app"><img src="https://img.shields.io/badge/demo-online-brightgreen.svg" alt="Live Demo" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19-61dafb.svg?logo=react&logoColor=white" alt="React 19" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-6.0-3178c6.svg?logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-8.0-646cff.svg?logo=vite&logoColor=white" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+</p>
+
+<p align="center">
+  👉 <strong><a href="https://markdown-editor-ten-eta.vercel.app">Launch Live Demo on Vercel</a></strong> <em>(or <a href="https://codexanjan.github.io/markdown-editor/">GitHub Pages</a>)</em>
+</p>
 
 ---
 
