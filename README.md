@@ -184,3 +184,13 @@ This project is licensed under the [MIT License](LICENSE).
 **Anjan Shetty**
 - GitHub: [@codexanjan](https://github.com/codexanjan)
 - Project Repository: [https://github.com/codexanjan/markdown-editor](https://github.com/codexanjan/markdown-editor)
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Anjan Shetty](https://github.com/codexanjan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-codexanjan-181717?style=flat&logo=github)](https://github.com/codexanjan)
+
+</div>
